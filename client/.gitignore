@@ -1,0 +1,14 @@
+.gradle
+/local.properties
+.DS_Store
+
+# 追加
+.gradle/
+.idea/
+gradle/
+build/
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
+*.iml
